@@ -1,5 +1,11 @@
 # ProyectoMaximizacion
 
+Personal project for university, made to implement previous knowledge of Simplez Method and new skills in web development in Angular
+
+Right to: Juan Camilo Arango Valle 28/04/2021
+
+Acknowledgement: [Juan Pablo Trujillo Alviz](https://github.com/Juapatral)  
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
 ## Development server

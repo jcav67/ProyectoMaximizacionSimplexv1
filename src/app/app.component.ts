@@ -114,7 +114,7 @@ export class AppComponent {
    
     var bandera=false;
     var x=0
-    while(x<7){
+    while(!bandera){
       this.arrFantasma=[]
       for(var i=0; i<this.columnas;i++){
         if(i==this.cantidadVariables){
@@ -167,7 +167,6 @@ export class AppComponent {
           this.arrCompleto[i][j]=this.arrCompleto[i][j]+(this.arrCompleto[pivote][j]*inversoAditivo)
         }
       }
-      x+=1;
     }
     
     //this.miFormulario.reset();
